@@ -61,3 +61,12 @@ At this stage, some new features were added which were removed. In addition to t
  
  #### Conclusions
  Next deliverable
+ 
+ 
+ 
+### Contents of the Repository
+
+1. README.MD
+2. Dataset CSV file
+3. Inital Code and Results in.ipynb
+4. A compilation of the technical reports in pdf
